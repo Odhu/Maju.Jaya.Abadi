@@ -91,3 +91,8 @@ body {
     text-decoration: none;
     color: gray;
 }
+@media (max-width: 784px) {
+    nav .d-flex {
+        width: 12em;
+    }
+}
